@@ -1,0 +1,53 @@
+#footer {
+height: 100vh;
+width: 100%;
+background-image: url(./do\ an3.png);
+text-align: center;
+background-size: cover;
+font-size: 100px;
+font-family: 'Nerko One', cursive;
+}
+#body{
+    font-family: 'Architects Daughter', cursive;
+    font-size: 30px;
+}
+.img1{
+    width: 60%;
+    height: 100vh;
+    background-image: url(./pho1.png);
+    background-size: cover;
+    align-items: center;
+    margin: auto;
+}
+.img2{
+    width: 60%;
+    height: 100vh;
+    background-image: url(./banh\ mi.jpg);
+    background-size: cover;
+    align-items: center;
+    margin: auto;
+}
+.img3{
+    width: 60%;
+    height: 100vh;
+    background-image: url(./bãnheo.jpg);
+    background-size: cover;
+    align-items: center;
+    margin: auto;
+}
+.img4{
+    width: 60%;
+    height: 100vh;
+    background-image: url(./goicuon.jpg);
+    background-size: cover;
+    align-items: center;
+    margin: auto;
+}
+.img5{
+    width: 60%;
+    height: 100vh;
+    background-image: url(./miquang2.jpg);
+    background-size: cover;
+    align-items: center;
+    margin: auto;
+}
